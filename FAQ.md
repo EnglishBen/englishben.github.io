@@ -7,6 +7,7 @@
 
 ### What are your PC specs?
 
+
 CPU - Intel i7-12700k 3.60GHz
 
 RAM - Corsair Vengeance LPX 32GB DDR4 3600MHz
@@ -25,7 +26,8 @@ Headphones - HyperX Cloud IIs
 
 Microphone - Elgato Wave XLR
 
-**What are your internet speeds?**
+### What are your internet speeds?
+
 
 900 down, 200 up
 
