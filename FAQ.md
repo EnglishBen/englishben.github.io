@@ -141,7 +141,7 @@ This is called pause buffering, it is basically just holding escape to pause and
 ### How would I get into running this game?
 
 
-I have a tutorial for [No Major Glitches](https://youtu.be/1zoQ6nW7JcE?si=WKWFGrUQ4vvKJj3Y] which is far the most beginner-friendly run for SA.
+I have a tutorial for [No Major Glitches](https://youtu.be/1zoQ6nW7JcE?si=WKWFGrUQ4vvKJj3Y) which is far the most beginner-friendly run for SA.
 
 
 ## THUG1/THUG2/THAW
