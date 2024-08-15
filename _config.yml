@@ -1,5 +1,4 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: EBens Info Dump
+description: Much better than Google Docs :)
+show_downloads: false
 theme: jekyll-theme-midnight
