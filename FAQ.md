@@ -2,9 +2,10 @@
 
 ## Please read this if you have a question, it will probably answer it (if not feel free to ask)
 
-### General
+## General
 
-**What are your PC specs?**
+
+### What are your PC specs?
 
 CPU - Intel i7-12700k 3.60GHz
 
