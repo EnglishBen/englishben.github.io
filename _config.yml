@@ -2,3 +2,5 @@ title: EBens Info Dump
 description: Much better than Google Docs :)
 show_downloads: false
 theme: jekyll-theme-midnight
+github:
+  is_project_page: false
